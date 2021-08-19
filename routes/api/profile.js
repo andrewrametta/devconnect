@@ -183,7 +183,7 @@ router.put(
       current,
       description,
     } = req.body;
-    const newExp = { title, company, location, from, to, current, desciption };
+    const newExp = { title, company, location, from, to, current, description };
 
     try {
       const profile = await Profile.findOne({ user: req.user.id });
