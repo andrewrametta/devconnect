@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://Metta:Ufgator1!@devconnector.w3jc9.mongodb.net/DevConnector?retryWrites=true&writeConcern=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "8d74f7a865554dea109a",
+  "githubSecret": "bd5a2a5d14423dc95bbcb7e5cd7c93e0abece009"
 }
